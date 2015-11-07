@@ -1,7 +1,4 @@
-(ns data-transit.core-test
+(ns data-transit.transit-demo
   (:require [clojure.test :refer :all]
-            [data-transit.core :refer :all]))
+            [data-transit.transit-demo :refer :all]))
 
-(deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))

@@ -1,4 +1,4 @@
-(ns data-transit.core
+(ns data-transit.transit-demo
   (require [clojure.java.io :as io]
     [cognitect.transit :as transit]))
 
